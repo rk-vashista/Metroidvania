@@ -79,6 +79,9 @@ We welcome contributions! To contribute, please follow these steps:
 5. **Open a pull request.**
     
 
+### 👾 Original assets can be found at:
+[https://venoxxx.itch.io/pixxxelpunkkk-toolkit](https://venoxxx.itch.io/pixxxelpunkkk-toolkit)
+
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
