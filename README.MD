@@ -4,7 +4,7 @@
 
 Welcome to the **Factory Escape Game**! This thrilling adventure challenges you to navigate through various rooms, avoid enemies, and ultimately escape the factory. Use your skills to overcome obstacles and defeat the enemy bosses.
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](./gameplay/screenshot.png)
 
 ## 🚀 Installation
 
@@ -12,13 +12,13 @@ To get started with the Factory Escape Game, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/factory-escape-game.git
+    git clone https://github.com/rk-vashista/Metroidvania-Game
     ```
     
 
 2. **Navigate to the project directory:**
     ```sh
-    cd factory-escape-game
+    cd Metroidvania-Game
     ```
 
 
@@ -26,7 +26,7 @@ To get started with the Factory Escape Game, follow these steps:
 
 Open your browser and navigate to [http://localhost:3000](http://localhost:3000).
 
-![Game Start](gameStart.png)
+![Game Start](./gameplay/gameStart.png)
 
 
 
@@ -52,7 +52,7 @@ Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 - **Z**: Attack
 - **Enter**: Start the game
 
-![Controls](gamePlay.png)
+![Controls](./gameplay/gamePlay.png)
 
 
 ## 🤝 Contributing
