@@ -60,8 +60,7 @@ Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 We welcome contributions! To contribute, please follow these steps:
 
 1. **Fork the repository.**
-    ![Fork Repository](https://via.placeholder.com/300x200.png)
-
+   
 2. **Create a new branch:**
     ```sh
     git checkout -b feature/your-feature-name
@@ -78,12 +77,10 @@ We welcome contributions! To contribute, please follow these steps:
     ```
 
 5. **Open a pull request.**
-    ![Pull Request](https://via.placeholder.com/300x200.png)
+    
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-![MIT License](https://via.placeholder.com/728x90.png)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 Enjoy your adventure in the Factory Escape Game!
