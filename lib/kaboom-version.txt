@@ -1,0 +1,4 @@
+```
+Kaboom version used is 3000.1.17
+Link to the Kaboom version used: https://unpkg.com/kaboom@3000.1.17/dist/kaboom.mjs
+```
